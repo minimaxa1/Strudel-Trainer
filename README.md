@@ -1,5 +1,8 @@
 Strudel Trainer Pro
 
+https://www.youtube.com/watch?v=Sdu8t185ClE
+
+
 **A lightweight, single-file IDE wrapper for learning [Strudel](https://strudel.cc/).**
 
 Strudel Trainer Pro creates a bridge between visual music production and code-based algorave workflows. It wraps the official Strudel REPL in a custom interface designed to speed up workflow and assist with syntax learning.
