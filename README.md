@@ -36,7 +36,7 @@ The editor includes a basic linter that attempts to:
 
 ##  Usage
 
-1. Download the `index.html` file from this repository.
+1. Download the strudel_trainer.html file from this repository.
 2. Open it in any modern web browser (Chrome/Edge/Firefox).
 3. Click items in the library to build a pattern.
 4. Press **PLAY** to render the audio via the embedded Strudel engine.
